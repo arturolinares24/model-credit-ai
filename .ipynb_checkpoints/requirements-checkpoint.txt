@@ -1,0 +1,5 @@
+# requirements
+xgboost>=1.5.2
+pandas
+numpy
+
